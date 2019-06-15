@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"io/ioutil"
 	"encoding/json"
-	"./messagebus"
+	"github.com/charles-d-burton/control-hub/messagebus"
 )
 
 var usageStr = `
